@@ -15,4 +15,12 @@ public class City {
     public String getProvince(){
         return province;
     }
+
+    public void setName(String n){
+        name=n;
+    }
+
+    public void setProvince(String p){
+        province=p;
+    }
 }
